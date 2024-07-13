@@ -1,5 +1,11 @@
 # EverYoung_AI_Project
-From Skyrim Wu to complete it 
+
+
+### (Already finished)
+
+Here is URL to test names <https://o8jqygak8j.execute-api.us-east-1.amazonaws.com/default/name-matcher?name=张月林>
+
+To complete this project I was using AWS CDK cli to write my code and tests then deploy it, see my all code in _**name-matcher/src/index.mjs**_
 ## Purpose
 This project aims to
 
@@ -36,3 +42,4 @@ Write an AWS Lambda that match a human name in a list of human names.
 
 ## Out of scope
 security
+
